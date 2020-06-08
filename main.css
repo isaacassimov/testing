@@ -1,0 +1,12 @@
+.EAA {background-color:yellow;}
+.red {color:red;font-variant:small-caps ;}
+.fye {background-color:skyblue;}
+.rdt {background-color:#139ff9;}
+.m1 {background-color:red;}
+.syc {background-color:#8888f8;}
+.EAAA {background-color:yellow;font-weight:normal;font-size:12px;}
+table,tr,td {
+    border: 3px solid #cecece;
+    border-collapse:collapse ;
+    text-align: center;
+    table-layout:fixed ;}
